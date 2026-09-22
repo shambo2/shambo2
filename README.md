@@ -55,9 +55,3 @@
 An autonomous AI agent that turns natural-language prompts into end-to-end Shopify workflows across 13+ composable tools. Won 1st place at the GDG Showcase.
  
 <br/>
-### GitHub stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shambo2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="Ali's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambo2&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
-</p>
