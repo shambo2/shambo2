@@ -44,14 +44,14 @@
 <br/>
 ### Currently
 
-<img src="https://img.shields.io/badge/Scotiabank-E31837?style=flat-square&logo=scotiabank&logoColor=white" alt="Scotiabank"/> &nbsp;**Software Engineer Intern @ Scotiabank** · building Python and Fl[...]
+**Software Engineer Intern @ Scotiabank** · building capital markets risk tools.
 
-<img src="https://img.shields.io/badge/SportsForce-1D4ED8?style=flat-square&logo=americanfootball&logoColor=white" alt="SportsForce"/> &nbsp;**Software Engineer Intern @ SportsForce** · shipping prod[...]
+**Software Engineer Intern @ SportsForce** · shipping production for a college recruiting platform.
  
 <br/>
 ### Previous experience
 
-<img src="https://img.shields.io/badge/EY-2E2E38?style=flat-square&logo=ey&logoColor=white" alt="EY"/> &nbsp;**Previous experience @ EY**
+**Software Engineer Intern @ EY** · Creating full-stack snowflake native app + data engineering.
  
 <br/>
 ### Featured project
