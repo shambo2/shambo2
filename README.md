@@ -42,7 +42,6 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Moabstrx](https://img.shields.io/badge/Moabstrx-555555?style=flat-square&logoColor=white)
  
 <br/>
 ### Currently
