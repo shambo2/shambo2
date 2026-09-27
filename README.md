@@ -44,14 +44,14 @@
 <br/>
 ### Currently
 
-<img src="https://img.shields.io/badge/Scotiabank-E31837?style=flat-square&logo=scotiabank&logoColor=white" alt="Scotiabank"/> &nbsp;**Software Engineer Intern @ Scotiabank** · building Python and Flask tooling with AI-assisted development on the Capital Markets Risk team
+<img src="https://logo.clearbit.com/scotiabank.com" alt="Scotiabank logo" height="42"/> &nbsp;**Software Engineer Intern @ Scotiabank** · building Python and Fl...
 
-<img src="https://img.shields.io/badge/SportsForce-1D4ED8?style=flat-square&logo=americanfootball&logoColor=white" alt="SportsForce"/> &nbsp;**Software Engineer Intern @ SportsForce** · shipping product features across Flutter and TypeScript (35+ features, 51 PRs)
+<img src="https://logo.clearbit.com/sportforce.com" alt="Sport Force logo" height="42"/> &nbsp;**Software Engineer Intern @ SportsForce** · shipping prod[...]
  
 <br/>
 ### Previous experience
 
-<img src="https://img.shields.io/badge/EY-2E2E38?style=flat-square&logo=ey&logoColor=white" alt="EY"/> &nbsp;**Previous experience @ EY**
+<img src="https://logo.clearbit.com/ey.com" alt="EY logo" height="42"/> &nbsp;**Previous experience @ EY**
  
 <br/>
 ### Featured project
