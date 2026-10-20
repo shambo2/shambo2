@@ -1,56 +1,10 @@
-<h1 align="center">hey, i'm ali ☀️</h1>
- 
-<p align="center">
-  Software engineer and 4th-year CS Co-op student. I like building actual use cases.
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/alishamsi1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ali.shamsii@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Toronto,%20Canada-2F855A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
-<br/>
-### Tech I work with
- 
-**Languages**
- 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
- 
-**Frameworks & Libraries**
- 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
- 
-**Data & Infrastructure**
- 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
- 
-<br/>
-### Currently
+# Work Experience
 
-**Software Engineer Intern @ Scotiabank** · building capital markets risk tools.
+### 🏦 Software Engineer Intern · Scotiabank
+Building capital markets risk tools.
 
-**Software Engineer Intern @ SportsForce** · shipping production for a college recruiting platform.
- 
-<br/>
-### Previous experience
+### 🏈 Software Engineer Intern · SportsForce
+Shipping production features for a college recruiting platform.
 
-**Software Engineer Intern @ EY** · Creating full-stack snowflake native app + data engineering.
+### ❄️ Software Engineer Intern · EY
+Creating a full-stack Snowflake Native App and working on data engineering.
