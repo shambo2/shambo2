@@ -54,11 +54,3 @@
 ### Previous experience
 
 **Software Engineer Intern @ EY** · Creating full-stack snowflake native app + data engineering.
- 
-<br/>
-### Featured project
- 
-🎯 &nbsp;**[Orpheus](https://github.com/JulianCruzet/Orpheus)** · `Next.js` `TypeScript` `Gemini AI` `Supabase`
-An autonomous AI agent that turns natural-language prompts into end-to-end Shopify workflows across 13+ composable tools. Won 1st place at the GDG Showcase.
- 
-<br/>
